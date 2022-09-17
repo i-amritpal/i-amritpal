@@ -37,10 +37,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=i-amrit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-### ✍️ Dev Quote
+### ✍️ Keep in Mind
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Dev Meme
+### 😂 This is funny
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---

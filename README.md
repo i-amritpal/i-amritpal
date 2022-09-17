@@ -26,5 +26,8 @@
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=i-amrit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=i-amrit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=i-amrit&theme=blue-green&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-amrit&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

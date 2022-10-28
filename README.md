@@ -41,7 +41,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 This is funny
-<img src="https://www.memedroid.com/memes/detail/3606553/Greek-alphabet?refGallery=tags&page=1&tag=engineer+humor" width="512px"/>
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=i-amrit&icon=0&color=0)](https://visitcount.itsvg.in)

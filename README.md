@@ -34,7 +34,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=i-amrit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=i-amritpal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ### ✍️ Keep in Mind
@@ -43,4 +43,4 @@
 ### 😂 This is funny
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-![](https://visitcount.itsvg.in/api?id=i-amrit&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=i-amritpal&icon=0&color=0)

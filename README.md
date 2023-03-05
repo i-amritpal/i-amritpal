@@ -40,7 +40,7 @@
 ### ✍️ Keep in Mind
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 This is funny
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- ### 😂 This is funny
+<img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
-![](https://visitcount.itsvg.in/api?id=i-amritpal&icon=0&color=0)
+![](https://visitcount.itsvg.in/api?id=i-amrit&icon=0&color=0)

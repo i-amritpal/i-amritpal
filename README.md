@@ -1,11 +1,25 @@
 
 # 💫 About Me:
-🔭 I’m currently working on [Login UI](https://github.com/i-amritpal/Login_UI)<br>👯 I’m looking to collaborate on projects related to MERN stack<br>🤝 I’m looking for help with my [ShowIt](https://github.com/i-amritpal/ShowIt)<br>🌱 I’m currently learning Flutter and Firebase<br>💬 Ask me about React.Js, Node.Js <br>⚡ Fun fact I don't react too much...
+🔭 I’m currently working on [Login UI](https://github.com/i-amritpal/Login_UI)<br>👯 I’m looking to collaborate on projects related to MERN stack<br>🤝 I’m looking for help with my [ShowIt](https://github.com/i-amritpal/ShowIt)<br>🌱 I’m currently learning Flutter and Firebase<br>💬 Talks about MERN and related technologies..<br>⚡ Fun fact I don't react on things...
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)
-](https://instagram.com/https://instagram.com/i.am.amritpal?igshid=YmMyMTA2M2Y=) [
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amritpal17) 
+## 🌐 Connect with me  
+<div align="center">
+<a href="https://github.com/i-amritpal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/i_am_amritpal" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/amritpal17" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/angybird.17" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/i.am.amritpal" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

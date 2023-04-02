@@ -83,3 +83,11 @@
 
 ### 🎧 Listenings
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31x2qtnktldpma6wqnhid3riteeq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>
+
+##  Wanna Contribute? 🚀
+  You can contribute by doing one of the following:
+  - Following me 🤗
+  - Starring the repository ⭐
+  - Forking the repository 🍴
+  - Creating an Issue ❌
+  - Creating a Pull Request ✔

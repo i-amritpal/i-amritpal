@@ -80,6 +80,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎧 Listenings
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31x2qtnktldpma6wqnhid3riteeq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31x2qtnktldpma6wqnhid3riteeq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>
 
 ![](https://visitcount.itsvg.in/api?id=i-amritpal&icon=0&color=0)

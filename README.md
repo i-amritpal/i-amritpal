@@ -65,9 +65,9 @@
 </td></tr></table>  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=i-amritpal&theme=blue-green&hide_border=false&&show_icons=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=i-amritpal&theme=blue-green&hide_border=true&&show_icons=true&include_all_commits=true&count_private=true)
 <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=i-amritpal&theme=blue-green&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=i-amritpal&theme=blue-green&hide_border=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=i-amritpal&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 

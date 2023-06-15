@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on [Login UI](https://github.com/i-amritpal/Login_UI)<br>👯 I’m looking to collaborate on projects related to MERN stack<br>🤝 I’m looking for help with my [ShowIt](https://github.com/i-amritpal/ShowIt)<br>🌱 I’m currently learning Flutter and Firebase<br>💬 Talks about MERN and related technologies..<br>⚡ Fun fact I don't react on things...
+🔭 I’m currently working on [Promptopia](https://github.com/i-amritpal/Login_UI)<br>👯 I’m looking to collaborate on projects related to MERN stack<br>🤝 I’m looking for help with my [ShowIt](https://github.com/i-amritpal/ShowIt)<br>🌱 I’m currently learning Flutter and Firebase<br>💬 Talks about MERN and related technologies..<br>⚡ Fun fact I don't react on things...
 
 ![](https://visitcount.itsvg.in/api?id=i-amritpal&icon=0&color=0&style=plastic)
 

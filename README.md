@@ -1,16 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://visitcount.itsvg.in/api?id=i-amritpal" />
-  <img src="https://profile-counter.glitch.me/i-amritpal/count.svg" />
-  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-</p>
-
-# 💫 About Me:
-🔭 Just completed working on [Promptopia](https://github.com/i-amritpal/Promptopia.git), feel free to contribute and find bugs<br>👯 I’m looking to collaborate on projects related to MERN stack<br>🤝 I’m looking for help with my [ShowIt](https://github.com/i-amritpal/ShowIt)<br>🌱 I’m currently learning Flutter and Firebase<br>💬 Talks about MERN and related technologies..<br>⚡ I'm either taking a nap or working on some cool stuff...
+👯 I’m looking to collaborate on projects related to MERN stack<br>🤝 I’m looking for help with my [ShowIt](https://github.com/i-amritpal/ShowIt)<br>🌱 I’m currently learning Flutter and Firebase<br>💬 Talks about MERN and related technologies..<br>⚡ I'm either taking a nap or working on some cool stuff...
 
 ![](https://visitcount.itsvg.in/api?id=i-amritpal&icon=0&color=0&style=plastic)
 

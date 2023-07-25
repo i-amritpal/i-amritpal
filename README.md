@@ -6,6 +6,7 @@
   Visitor count<br>
   <img src="https://visitcount.itsvg.in/api?id=i-amritpal" />
   <img src="https://profile-counter.glitch.me/i-amritpal/count.svg" />
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 </p>
 
 # 💫 About Me:

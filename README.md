@@ -13,8 +13,8 @@
 ###
 
 <div align="center">
-    <img src="https://visitcount.itsvg.in/api?id=i-amritpal.i-amritpal&" />
-  <img src="https://visitcount.itsvg.in/api?id=i-amritpal&icon=0&color=0&style=plastic" />
+    <img src="https://visitcount.itsvg.in/api?id=i-amritpal&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://visitcount.itsvg.in/api?id=i-amritpal&icon=0&color=0&style=flat" />
 <!--   <img src="https://visitor-badge.laobi.icu/badge?page_id=i-amritpal.i-amritpal&"  /> -->
 </div>
 

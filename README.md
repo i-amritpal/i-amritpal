@@ -11,10 +11,10 @@
   <a href= "https://instagram.com/i.am.amritpal?igshid=NTc4MTlwNjQ2YQ=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
   </a>
   <a href= "https://twitter.com/i_am_amritpal">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=black&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
   </a>
   <a href= "https://twitter.com/i_am_amritpal">
-    <img src="https://img.shields.io/static/v1?message=Snapchat&logo=snapchat&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
+    <img src="https://img.shields.io/static/v1?message=Snapchat&logo=snapchat&label=&color=yellow&logoColor=white&labelColor=yellow&style=flat" height="25" alt="snapchat logo" />
   </a>
 </div>
 

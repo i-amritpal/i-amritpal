@@ -13,6 +13,9 @@
   <a href= "https://twitter.com/i_am_amritpal">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
   </a>
+  <a href= "https://twitter.com/i_am_amritpal">
+    <img src="https://img.shields.io/static/v1?message=Snapchat&logo=snapchat&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo" />
+  </a>
 </div>
 
 ###

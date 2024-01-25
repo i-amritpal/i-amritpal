@@ -91,7 +91,7 @@
 
 ## Ways to reach me:
 
-[<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/telegram.png" />](https://www.telegram.me/HeManTSacHDevA)[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://github.com/i-amritpal/i-amritpal/blob/main/assets/instagram.png" />](https://www.instagram.com/i.am.amritpal)[<img align="left" alt="HeManT-SacHDevA | LinkedIn" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/linkedin.png" />](https://www.linkedin.com/in/Hemant-Sachdeva)[<img align="left" alt="HeMantSachdeva | Gmail" width="44px" src="https://github.com/i-amritpal/i-amritpal/blob/main/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=er.amritpal17@gmail.com)
+[<img align="left" alt="AmritpalSingh | Telegram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/telegram.png" />](https://www.telegram.me/HeManTSacHDevA)[<img align="left" alt="AmritpalSingh | Instagram" width="22px" src="https://github.com/i-amritpal/i-amritpal/blob/main/assets/instagram.png" />](https://www.instagram.com/i.am.amritpal)[<img align="left" alt="Amritpa-Singh | LinkedIn" width="22px" src="https://github.com/i-amritpal/i-amritpal/blob/main/assets/linkedin.png" />](https://www.linkedin.com/in/amritpal17)[<img align="left" alt="AmritpalSingh | Gmail" width="44px" src="https://github.com/i-amritpal/i-amritpal/blob/main/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=er.amritpal17@gmail.com)
 <br>
 
 

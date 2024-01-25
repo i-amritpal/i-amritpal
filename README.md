@@ -5,9 +5,6 @@
 
 ###
 
-<div align="center">
-  <img src = 'https://komarev.com/ghpvc/?username=your-github-username&style=flat-square' />
-</div>
 
 ###
 
@@ -20,6 +17,8 @@
 ###
 
 <p align="left">I'm Amritpal Singh<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning MongoDB<br>- ⚡ In my free time I'm either playing chess or doing some crazy stuff ;)</p>
+
+<img src = 'https://komarev.com/ghpvc/?username=your-github-username&style=flat-square' />
 
 ###
 
@@ -70,6 +69,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=i-amritpal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=i-amritpal&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=3&order=3" height="150" alt="streak graph"  />
+
+<img src="https://streak-stats.demolab.com/?user=i-amritpal&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=3&order=3" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-amritpal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 

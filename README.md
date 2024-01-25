@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href= "https://www.linkedin.com/in/amritpal17">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"/>
   </a>
   <a href= "https://instagram.com/i.am.amritpal?igshid=NTc4MTlwNjQ2YQ=="><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="25" alt="youtube logo"  />
   </a>

@@ -91,8 +91,9 @@
 
 ## Ways to reach me:
 
-[<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/telegram.png" />](https://www.telegram.me/HeManTSacHDevA)[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/instagram.png" />](https://www.instagram.com/isHemantSachdeva)[<img align="left" alt="HeManT-SacHDevA | LinkedIn" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/linkedin.png" />](https://www.linkedin.com/in/Hemant-Sachdeva)[<img align="left" alt="HeMantSachdeva | Gmail" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hemant.evolver@gmail.com)
+[<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/telegram.png" />](https://www.telegram.me/HeManTSacHDevA)[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/instagram.png" />](https://www.instagram.com/isHemantSachdeva)[<img align="left" alt="HeManT-SacHDevA | LinkedIn" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/linkedin.png" />](https://www.linkedin.com/in/Hemant-Sachdeva)[<img align="left" alt="HeMantSachdeva | Gmail" width="44px" src="https://github.com/i-amritpal/i-amritpal/blob/main/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=er.amritpal17@gmail.com)
 <br>
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
 

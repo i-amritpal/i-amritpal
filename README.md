@@ -87,3 +87,12 @@
   <img src="https://streak-stats.demolab.com?user=i-amritpal&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=3&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i-amritpal&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+
+## Ways to reach me:
+
+[<img align="left" alt="HeManTSacHDevA | Telegram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/telegram.png" />](https://www.telegram.me/HeManTSacHDevA)[<img align="left" alt="HeManTSacHDevA | Instagram" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/instagram.png" />](https://www.instagram.com/isHemantSachdeva)[<img align="left" alt="HeManT-SacHDevA | LinkedIn" width="22px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/linkedin.png" />](https://www.linkedin.com/in/Hemant-Sachdeva)[<img align="left" alt="HeMantSachdeva | Gmail" width="44px" src="https://raw.githubusercontent.com/HemantSachdeva/HemantSachdeva/ItzMe/assets/gmail.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=hemant.evolver@gmail.com)
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
+

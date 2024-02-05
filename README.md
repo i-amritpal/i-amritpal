@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm Amritpal Singh<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning MongoDB<br>- ⚡ In my free time I'm either playing chess or doing some crazy stuff ;)</p>
+<p align="left">I'm Amritpal Singh<br><br>- 🔭 I’m working as MERN Developer<br>- 📚 I'm currently learning MongoDB<br>- ⚡ In my free time I'm either playing chess or doing some crazy stuff ;)</p>
 
 <img src = 'https://komarev.com/ghpvc/?username=your-github-username&style=flat-square' />
 
